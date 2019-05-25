@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ex5_Demo_App</string>
+    <string name="fisherman">Fisherman</string>
+    <string name="go_fish">go fish!</string>
+    <string name="tap_on_me">tap on me!</string>
+    <string name="enter_numbers">Enter 5 Digits</string>
+</resources>
